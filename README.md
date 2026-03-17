@@ -3,10 +3,12 @@
 
 
 
-<div>
+<div style="display: inline_block">
   <img heigth="180em" src="https://github-readme-stats.vercel.app/api?username=pedrosoaresx&show_icons=true&theme=transparent"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedrosoaresx&theme=transparent"/>
 </div>
+
+## My stack
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Pedro-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
@@ -19,7 +21,7 @@
   <img align="right" alt="Pedro-gif" heigth="250" width="200" src="https://user-images.githubusercontent.com/74038190/212749171-b84692a8-2b04-4e3b-93ca-ac14705da224.gif">
 </div>
   
-  ##
+  ## Connect with me
  
 <div> 
 
