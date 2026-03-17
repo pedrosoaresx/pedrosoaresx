@@ -1,10 +1,14 @@
 <div align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&color=753FF7&width=435&lines=Wellcome+to+my+profile" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&pause=1000&color=753FF7&width=435&lines=Hi++%F0%9F%91%8B++I'm+Pedro;Java+Backend+Developer+" alt="Typing SVG" /></a>
 </div>
 
 
-<p align="center">Sou um desenvolvedor em formação apaixonado por tecnologia e programação.
-Atualmente estou focado no ecossistema Java, estudando Spring Boot, APIs REST e desenvolvimento backend.
+<p align="center">Welcome to my profile 🎯
+  
+<p align="center">I’m a software developer in training, passionate about technology and programming.  
+Currently focused on the **Java ecosystem**, studying **Spring Boot, REST APIs and backend development**.
+
+##
 
 <h3 align="center"">@ GitHub Stats @
 <div style="display: inline_block">
