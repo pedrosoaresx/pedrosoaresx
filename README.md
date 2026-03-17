@@ -5,8 +5,12 @@
 
 <p align="center">Welcome to my profile 🎯
   
-<p align="center">I’m a software developer in training, passionate about technology and programming.  
-Currently focused on the **Java ecosystem**, studying **Spring Boot, REST APIs and backend development**.
+<p align="center">I’m a software developer in training, passionate about technology and programming.
+Currently focused on the Java ecosystem, studying Spring Boot, REST APIs and backend development.
+
+<p align="center">🎓 I’m currently pursuing a degree in Information Systems at the University of Uberaba (Uniube).
+
+<p align="center">🚀 I’m constantly improving my skills and building projects to strengthen my knowledge in backend development.
 
 ##
 
